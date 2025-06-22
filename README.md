@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Harihara Alagappan Venkatachalam
 
-<!--
-**Hari140126/hari140126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year B.Tech Computer Science & Engineering | SRM University  
+💡 Aspiring Data Scientist | 💼 Completed Internship @ ShadowFox  
+🌱 Exploring Python and beginner-level data science projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 📌 [ShadowFox Internship Project](https://github.com/hari140126/ShadowFox-Hari)
+> Completed beginner and intermediate tasks during the internship  
+> Learning Python basics, Excel, and basic data analysis
+
+---
+
+## 🎯 Learning Goals
+
+- 📚 Improve Python skills for data analysis  
+- 📊 Learn basic data visualization  
+- 🧠 Understand the foundations of machine learning  
+- 🌐 Build beginner-friendly projects and upload to GitHub
+
+---
+
+## 📫 Connect with Me
+
+- 🔗 LinkedIn: [Harihara Alagappan V](https://www.linkedin.com/in/harihara-alagappan-venkatachalam-01115a349)  
+- 💻 GitHub: [@hari140126](https://github.com/hari140126)
+
+---
+
+> “Every expert was once a beginner. Keep going 🚀”
